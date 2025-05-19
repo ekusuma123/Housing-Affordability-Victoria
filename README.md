@@ -78,13 +78,13 @@ To assess housing affordability in Victoria by analyzing:
 ![Chart 1](output/01_distance_vs_price_ratio.png)
 
 ### 2. Median House and Unit Prices by LGA
-![Chart 2](output/02_median_price_gap.png)
+![Chart 2](output/02_house_unit_gap.png)
 
 ### 3. Mortgage Burden by LGA (2023)
-![Chart 3](output/03_mortgage_burden.png)
+![Chart 3](output/03_mortgage_burden_by_lga.png)
 
 ### 4. Housing Affordability by LGA (Price-to-Income Comparison)
-![Chart 4](output/04_price_to_income_ratio_comparison.png)
+![Chart 4](output/04_price_income_ratio_by_lga.png)
 
 ### 🔗 Interactive Charts
 
