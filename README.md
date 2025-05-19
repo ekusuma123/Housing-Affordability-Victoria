@@ -72,14 +72,25 @@ To assess housing affordability in Victoria by analyzing:
 
 ---
 
-## 📈 Visualizations
+## 📊 Visualizations
 
-- 📍 **Scatter Plot**: Distance to CBD vs Price-to-Income Ratio
-- 📉 **Bar Chart**: Top 10 Least Affordable LGAs
-- 🔵 **Bubble Chart**: Income vs House Price
-- 🗺️ (Planned) Heat Map: Mortgage Stress Zones
+### 1. Distance to CBD vs House Price-to-Income Ratio
+![Chart 1](output/01_distance_vs_price_ratio.png)
 
-See visuals in `/charts/`
+### 2. Median House and Unit Prices by LGA
+![Chart 2](output/02_median_price_gap.png)
+
+### 3. Mortgage Burden by LGA (2023)
+![Chart 3](output/03_mortgage_burden.png)
+
+### 4. Housing Affordability by LGA (Price-to-Income Comparison)
+![Chart 4](output/04_price_to_income_ratio_comparison.png)
+
+### 🔗 Interactive Charts
+
+All charts were created and formatted in Google Sheets.  
+[View the interactive Google Sheet]([https://docs.google.com/spreadsheets/d/your-sheet-id-here](https://docs.google.com/spreadsheets/d/1-a3_WZQFTMBadG5S_04qcvbOZ2tVBF-jfXwXJ5DyFgg/edit?usp=sharing))
+
 
 ---
 
