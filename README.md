@@ -160,15 +160,15 @@ As distance from the CBD increases, affordability improves — but household rel
 ## 🗂️ File Structure
 
 📁 **data/**  
-│ ├── `final_LGA_affordability_summary_2023.xlsx` — Final merged dataset used for analysis  
-│ ├── `Vic_Property_Price_2023.xlsx` — Raw property price data by suburb  
-│ └── `lga_summary_2021.xlsx` — ABS 2021 Census data (income, mortgage, etc.)
+├── `final_LGA_affordability_summary_2023.xlsx` — Final merged dataset used for analysis  
+├── `Vic_Property_Price_2023.xlsx` — Raw property price data by suburb  
+└── `lga_summary_2021.xlsx` — ABS 2021 Census data (income, mortgage, etc.)
 
 📁 **output/**  
-│ ├── `01_distance_vs_price_ratio.png` — Bubble chart: Distance to CBD vs affordability  
-│ ├── `02_house_unit_gap.png` — Stacked bar: House vs unit prices  
-│ ├── `03_mortgage_burden_by_lga.png` — Bar chart: Mortgage stress % by LGA  
-│ └── `04_price_income_ratio_by_lga.png` — Dual bar: House & unit price-to-income ratios
+├── `01_distance_vs_price_ratio.png` — Bubble chart: Distance to CBD vs affordability  
+├── `02_house_unit_gap.png` — Stacked bar: House vs unit prices  
+├── `03_mortgage_burden_by_lga.png` — Bar chart: Mortgage stress % by LGA  
+└── `04_price_income_ratio_by_lga.png` — Dual bar: House & unit price-to-income ratios
 
 
 ---
